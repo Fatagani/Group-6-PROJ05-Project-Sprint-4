@@ -1,1 +1,2 @@
-
+FoodWeb
+Foodweb is an innovative digital platform designed to combat food waste by creating a seamless bridge between food donors such as restaurants and grocery stores and community recipients like shelters and food banks. By leveraging intelligent algorithms, real-time data integration, and a user-friendly interface, Foodweb optimizes donation matching and pickup routes, ensuring that surplus food is quickly and efficiently redirected to those in need. 
