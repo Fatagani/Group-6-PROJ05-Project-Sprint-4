@@ -22,7 +22,7 @@ Foodweb is an innovative digital platform designed to combat food waste by creat
 
 - 🗃️ Manage food inventory and transactions effectively using a NoSQL database (MongoDB).
 
-# 🛡️ Structural architecture
+# 🛡️ Structural Architecture
 | Layer | Description | 
 |----------|----------|
 | UI Layer  | Users interact with the system  | 
