@@ -3,7 +3,7 @@
 <p align="justify">
 Foodweb is an innovative digital platform designed to combat food waste by creating a seamless bridge between food donors such as restaurants and grocery stores and community recipients like shelters and food banks. By leveraging intelligent algorithms, real-time data integration, and a user-friendly interface, Foodweb optimizes donation matching and pickup routes, ensuring that surplus food is quickly and efficiently redirected to those in need. 
 </p>
--------------------------------------------------------------------->>>>>>
+------------------------------------------------------------------------------------------>>>>>>
 
 # Project Objective
 - 🥗 Reduce food waste by redirecting surplus food from donors (restaurants, groceries) to shelters and food banks.
@@ -39,4 +39,64 @@ Foodweb is an innovative digital platform designed to combat food waste by creat
 └── README.md         # Project documentation </code></pre>
 
 # 📢 Step by Step Instruction:
-<pre><code> 
+
+# 1.  Clone the GitHub Repository
+<pre><code> cd FoodWeb/
+  git git clone https://github.com/username.git </code></pre>
+
+# 2. View the ssh directory
+ <pre><code> ls -al ~/.shh </code></pre>
+ 
+# 3. Setting up the Virtual Environment
+<pre><code> python -m venv venv
+  source venv/bin/activate </code></pre>
+  
+# 4. Downloading the VsCode
+<pre><code> cd Downloads/
+  sudo apt install ./vscode.deb </code></pre>
+  
+# 5. Opening Vs Code
+<pre><code> cd FoodWeb/
+  code .. </code></pre>
+
+
+# 🌐 Sample UI design
+| Layer | Description | 
+|----------|----------|
+| Username: | input username | 
+| Password: | input own password |
+
+# 🚀 Features
+- ✅ User Authentication System 
+
+- 🍽️ Donation Management
+
+- 🏠 Recipient Requests
+
+- 📍 Smart Matching Algorithm
+
+- 🗺️ Optimized Pickup Routing
+
+- 📦 Inventory Tracking
+
+- 📊 Data Visualization Dashboard
+
+- 🖥️ Flet Desktop App Interface
+
+- 🛠️ Modular MVC Architecture
+  
+# 📶 Client:
+- This project is developed for Sir. Dionis Padilla as part of the CPE106L-4-E03 course at Mapúa University.
+
+# 📧 Partial Fulfillment:
+- This project, FoodWeb: A Food Rescue and Redistribution Platform, is submitted in partial fulfillment of the requirements for the course CPE106L-4 - Software Design Laboratory at Mapúa University.
+
+
+
+
+  
+  
+   
+   
+
+  
